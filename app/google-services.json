@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013646927521",
+    "project_id": "refunds-69fe2",
+    "storage_bucket": "refunds-69fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013646927521:android:7fd9fdc3116cef69f3f2e0",
+        "android_client_info": {
+          "package_name": "vizualsami.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013646927521-u1c59q2d3vk27t913n9pc3f21d6t71nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg6J0Swkt-5OTqro4QUG8p4nPY8c34vQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013646927521-u1c59q2d3vk27t913n9pc3f21d6t71nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
